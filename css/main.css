@@ -53,6 +53,14 @@ h1 {
 	display: inline-block;
 }
 
+.nav-bot {
+	text-align: center;
+}
+
+.info-bot {
+	display: inline-block;
+}
+
 @media only screen and (min-width: 20em) {
 
 	.nav {
@@ -110,7 +118,10 @@ h1 {
 		float: left;
 	}
 	
-
+	.unit-l-1-2 {
+		width: 50%;
+		float: left;
+	}
 	
 	
 	
